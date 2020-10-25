@@ -1,4 +1,4 @@
-# [upayi.me](https://upayi.me/)
+# [Pay2me](https://pay2me.vercel.app//)
 ---
 ### Show some :heart: and :star: the repo to support the project
 
@@ -60,7 +60,7 @@ Forking this project and <b>changing author name won't make you developer</b>
 ---
 
 ### You can fork the repo and deploy on VPS, Heroku or Vercel :)  
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/cyberboysumanjay/Inshorts-News-API/tree/master)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/kirodewal/upayi/app.py)
 
 [![Deploy to Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/cyberboysumanjay/Inshorts-News-API/tree/master)
 
