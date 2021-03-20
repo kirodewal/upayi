@@ -2,7 +2,7 @@
 ---
 ### Show some :heart: and :star: the repo to support the project
 
-[![GitHub stars](https://img.shields.io/github/stars/Kirodewal/upayi.svg?style=social&label=Star)](https://github.com/cyberboysumanjay/upayi) ![GitHub followers](https://img.shields.io/github/followers/cyberboysumanjay.svg?style=social&label=Follow)
+[![GitHub stars](https://img.shields.io/github/stars/Kirodewal/upayi.svg?style=social&label=Star)](https://github.com/cyberboysumanjay/upayi) ![GitHub followers](https://img.shields.io/github/followers/Kirodewal.svg?style=social&label=Follow)
 
 [![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-orange)](https://telegram.dog/HxBots) [![made-with-flask](https://img.shields.io/badge/Made%20with-Flask-1f425f.svg)](https://flask.palletsprojects.com/) ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Kirodewal/upayi)
 
@@ -38,7 +38,7 @@
 
 <h2><b>Donate</b></h2>
 <p style="font-size:20px">
-If you wish you can donate to me using my <a href="https://upayi.me/kkirodewal@okaxis">UPI Link</a> :wink:<br>
+If you wish you can donate to me using my <a href="https://pay2me.vercel.app/kkirodewal@okaxis">UPI Link</a> :wink:<br>
 You can use the above link and donate any amount you wish to test this service :stuck_out_tongue:
 </p>
 
@@ -53,7 +53,7 @@ Forking this project and <b>changing author name won't make you developer</b>
 
 ---
 
-<h4><a href="https://upayi.me/">Click here to create your UPI link</a></h4>
+<h4><a href="https://pay2me.vercel.app/">Click here to create your UPI link</a></h4>
 <h3>Made with :heart: by <a href="https://Kirodewal.github.io" alt="Kirodewal">Kirodewal</a>
 </div>
 
